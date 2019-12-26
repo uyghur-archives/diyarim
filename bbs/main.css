@@ -1,0 +1,90 @@
+/* CSS Document */
+.interfaceType{
+	color : #333333;
+	font-size: 9pt;
+}.englishInterfaceType{
+	color : #333333;
+	font-size: 8pt;
+}.versionType{
+	color : #330000;
+	font-size: 10pt;
+}.headtd1{
+	background: url(png/tableBackGround.png); 
+	border: 0px; 
+	border-color: transparent; 
+	cursor: pointer; 
+	font-size: 9pt;
+}.headtd2{
+	background: url(png/tableBackGround.png); 
+	border: 0px; 
+	border-color: transparent; 
+	cursor: pointer; 
+	font-size: 9pt;
+}.bodytd{
+	background: url(png/tableBackGround.png); 
+	border: 2px; 
+	border-color: transparent;
+	font-size: 9pt;
+}.loginType_nor{
+	color : #333333;
+	font-size: 10pt;
+	cursor:pointer;
+}.loginType_hover{
+	color : #ffffff;
+	font-size: 10pt;
+	cursor:pointer;
+}.setVideoEffect_nor{
+	color : #d3d3d3;
+	font-size: 10pt;
+	cursor:pointer;
+}.setVideoEffect_hover{
+	color : #d3d3d3;
+	font-size: 10pt;
+	cursor:pointer;
+}.PTZControlType_nor{
+	color : #d3d3d3;
+	font-size: 10pt;
+	cursor:pointer;
+}.PTZControlType_hover{
+	color : #d3d3d3;
+	font-size: 10pt;
+	cursor:pointer;
+}.englishVoiceType{
+	color : #d3d3d3;
+	font-size: 9pt;
+	cursor:pointer;
+}.defaultType_nor{
+	color : #333333;
+	font-size: 9pt;
+	cursor:pointer;
+}.defaultType_hover{
+	color : #ffffff;
+	font-size: 9pt;
+	cursor:pointer;
+}.setPresetType_nor{
+	color : #333333;
+	font-size: 9pt;
+	cursor:pointer;
+}.setPresetType_hover{
+	color : #ffffff;
+	font-size: 9pt;
+	cursor:pointer;
+}.gotoPresetType_nor{
+	color : #333333;
+	font-size: 9pt;
+	cursor:pointer;
+}.gotoPresetType_hover{
+	color : #ffffff;
+	font-size: 9pt;
+	cursor:pointer;
+}.cruisePopMenuType_nor{
+	color : #333333;
+	font-size: 9pt;
+	cursor:pointer;
+	font-weight:400;
+}.cruisePopMenuType_hover{
+	color : #851637;
+	font-size: 9pt;
+	cursor:pointer;
+	font-weight:800;
+}

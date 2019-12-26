@@ -1,0 +1,56 @@
+html, input, div, table, textarea, select, p, td, body{ FONT-SIZE:10pt; FONT-FAMILY:"UKIJ Tuz Tom"}
+@font-face {  font-family:UKIJ Tuz Tom; src: url(/bbs.eot); }
+
+
+A:visited{TEXT-DECORATION:none}
+A:link{text-decoration:none}
+A:hover{TEXT-DECORATION:underline}
+
+DIV,FORM,P,TD,BODY{FONT-SIZE:11pt;}
+BODY{
+SCROLLBAR-HIGHLIGHT-COLOR:buttonface;
+SCROLLBAR-SHADOW-COLOR:buttonface;
+SCROLLBAR-3DLIGHT-COLOR:buttonhighlight;
+SCROLLBAR-TRACK-COLOR:eeeeee;
+SCROLLBAR-DARKSHADOW-COLOR:buttonshadow
+}
+
+
+#TableTitleLink A:link,#TableTitleLink A:visited{COLOR:000000;}
+.a1{BACKGROUND-IMAGE:url('titlebg.gif');COLOR:000000;}
+.a2{BACKGROUND-COLOR: A4B6D7;}
+.a3{BACKGROUND-COLOR: F2F8FF;}
+.a4{BACKGROUND-COLOR: ECF5FF;}
+
+.menuskin {
+	BORDER-RIGHT: #0A2999 1px solid ;
+	BORDER-TOP: #0A2999 1px solid;
+	BORDER-LEFT: #0A2999 1px solid;
+	BORDER-BOTTOM: #0A2999 1px solid;
+	BACKGROUND-IMAGE: url(menubg.gif);
+	POSITION: absolute;
+	VISIBILITY: hidden;
+}
+
+.menuitems {
+	PADDING-RIGHT: 1px;
+	PADDING-TOP: 1px;
+	PADDING-LEFT: 1px;
+	PADDING-BOTTOM: 1px;
+	MARGIN: 2px;
+	font-size:11pt;
+	line-height:11pt;
+}
+#mouseoverstyle {
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	PADDING-BOTTOM: 0px;
+	PADDING-TOP: 0px;
+	BORDER-RIGHT: #0B008B 1px solid;
+	BORDER-TOP: #0B008B 1px solid;
+	BORDER-LEFT: #0B008B 1px solid;
+	BORDER-BOTTOM: #0B008B 1px solid;
+	BACKGROUND-COLOR: #FFEEC2 
+}
+.menuskin A {PADDING-RIGHT:10px;PADDING-LEFT:30px;}
+.menuskin {FILTER: alpha(opacity=80);}
